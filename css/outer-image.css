@@ -1,0 +1,31 @@
+.container {
+    max: width 1200px;
+    margin:auto;
+    background:white;
+    overflow:auto;
+  }
+  
+  .gallery {
+   
+      margin:5px;
+      border:1px;
+      float:left;
+      width:230px;
+      
+  
+  }
+  
+  .gallery img {
+  
+    width: 350px;
+    height:auto;
+    
+  }
+
+  .text {
+
+      margin:5px;
+      border:1px;
+      float:left;
+      width:230px;
+  }
